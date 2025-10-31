@@ -1,8 +1,8 @@
-# ========================================
+# =====================================
 # Müşteri Veri Seti Coğrafi ve Demografik Analiz Projesi
-# ========================================
-Bu projenin temel amacı, 1 milyon satırlık sahte Türk müşteri veri setini inceleyerek müşteri tabanının coğrafi yoğunluk ve temel demografik dağılımlarını tespit etmektir. Analiz, veri görselleştirme kütüphaneleri (Pandas, Matplotlib, Seaborn) kullanılarak, müşteri popülasyonunun yapısını ve dağılımını anlamayı hedeflemektedir.
-Grafiklerde kullanılan **'Nüfus'** terimi, analiz edilen 1 milyon satırlık müşteri veri setindeki **kayıt sayısını** ifade etmektedir. Yani, bu **'Müşteri Nüfusunun'** coğrafi veya demografik dağılımını gösterir. Örneğin 'İstanbul Nüfusu', veri setimizdeki İstanbul'a ait toplam **kayıt sayısını** temsil etmektedir.
+# =====================================
+- Bu projenin temel amacı, 1 milyon satırlık sahte Türk müşteri veri setini inceleyerek müşteri tabanının coğrafi yoğunluk ve temel demografik dağılımlarını tespit etmektir. Analiz, veri görselleştirme kütüphaneleri (Pandas, Matplotlib, Seaborn) kullanılarak, müşteri popülasyonunun yapısını ve dağılımını anlamayı hedeflemektedir.
+- Grafiklerde kullanılan **'Nüfus'** terimi, analiz edilen 1 milyon satırlık müşteri veri setindeki **kayıt sayısını** ifade etmektedir. Yani, bu **'Müşteri Nüfusunun'** coğrafi veya demografik dağılımını gösterir. Örneğin 'İstanbul Nüfusu', veri setimizdeki İstanbul'a ait toplam **kayıt sayısını** temsil etmektedir.
 # Somut Bulgular ve Analizler
 ## Coğrafi Bulgular
 Müşteri kayıtlarının büyük bir çoğunluğu, Türkiye'nin metropol illerinde kümelenmiştir.
